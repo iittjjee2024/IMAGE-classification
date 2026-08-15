@@ -1,4 +1,4 @@
-# Task 3: Image Classification Using a Pretrained Model
+# Image Classification Using a Pretrained Model
 
 Uses a pretrained MobileNetV2 model with transfer learning to train on image data (CIFAR-10), classify sample images, and display predicted labels with confidence scores.
 
